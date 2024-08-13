@@ -80,6 +80,23 @@
 + :white_circle: 《敏捷软件开发：原则、模式与实践》
 + :yellow_circle:《人月神话》
 
+# 人文类书籍
 
+**个人成长**
++ :green_circle:《高效能人士的七个习惯》
++ :green_circle:《刻意练习》
++ :green_circle:《暗时间》
++ :yellow_circle:《如何阅读一本书》
++ :yellow_circle:《金字塔原理》
   
+**健康**
++ :green_circle:《超越百岁》
+
+**心理学**
++ :green_circle:《非暴力沟通》
+
+**历史**
+**经济**
+**法律**
+**文学**
 
