@@ -22,6 +22,9 @@
   - :yellow_circle:《C++的设计与演化》
   - :yellow_circle:《C++ Templates》
   - :yellow_circle:《C++并发编程实战》
+  - :yellow_circle:《深入应用C++11代码优化与工程级应用》
+  - :white_circle: 《Effective STL》
+    
 + Java
   -  :white_circle: 《Think in java》
 + Python
@@ -32,6 +35,7 @@
 
 **数据结构与算法**
 + :yellow_circle:《手写代码必备手册(C++版)》
++ :yellow_circle:《算法导论》
   
 **设计模式**
 + :yellow_circle:《设计模式与游戏完美开发》
@@ -68,7 +72,14 @@
 + :yellow_circle:《Git权威指南》
 
 **网络**
++ :yellow_circle:《TCP-IP详解卷1：协议》
++ :white_circle:《TCP-IP详解卷2：实现》
++ :white_circle:《TCP-IP详解卷3：TCP事务协议，HTTP，NNTP和UNIX域协议》
+
+**网络编程**
 + :yellow_circle: 《Linux多线程服务端编程：使用muduo C++网络库》
++ :yellow_circle: 《linux高性能服务器编程》
++ 
 
 **程序员内力与素养**
 + :yellow_circle:《代码大全》
